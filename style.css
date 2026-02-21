@@ -1,13 +1,13 @@
-* {
+*{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
-
 .control-box {
   width: 1440px;
   height: 750px;
   display: flex;
+  justify-content: stretch;
   align-items: center;
   flex-direction: column;
 }
@@ -39,31 +39,25 @@ p {
   font-size: 14px;
   font-family: Arial, Helvetica, sans-serif;
   line-height: 1.6;
+  margin-top: 18px;
 }
 
 .txt2 {
   margin-bottom: 16px;
-}
-
-.txt4 {
-  margin-bottom: 30px;
+  font-family: "Courier New", Courier, monospace;
 }
 
 /* ------------------------------------------------------------- */
 
 @media (max-width: 480px){
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-  
+
   .control-box {
     width: 100%;
     height: auto;
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: center;
   }
 
   .min-con-box {
@@ -106,5 +100,6 @@ p {
   .txt2 {
     margin-bottom: 12px;
     font-family: "Courier New", Courier, monospace;
+    margin-top: 18px;
   }
 }
