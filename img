@@ -1,4 +1,0 @@
-
-git rm -r img
-git commit -m "Delete img folder"
-git push
