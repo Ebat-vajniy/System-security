@@ -15,7 +15,7 @@
 .min-con-box {
   width: 720px;
   height: 400px;
-
+  margin-top: 20px;
 }
 
 h1 {
@@ -64,6 +64,7 @@ p {
   .min-con-box {
     width: 60%;
     height: auto;
+    margin-top: 10px;
   }
 
   h1 {
