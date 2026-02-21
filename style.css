@@ -1,0 +1,46 @@
+.control-box {
+  width: 1440px;
+  height: 750px;
+  display: flex;
+  justify-content: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+
+.min-con-box {
+  width: 720px;
+  height: 400px;
+}
+
+h1 {
+  height: 27px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+span {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 17px;
+  line-height: 1.6;
+  font-weight: 100;
+}
+
+.div-pic {
+  width: 300px;
+  height: 300px;
+  margin: 20px 170px;
+}
+
+.txt1 {
+  color: grey;
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.6;
+}
+
+.txt2 {
+  margin-bottom: 16px;
+}
+
+.txt4 {
+  margin-bottom: 30px;
+}/*# sourceMappingURL=style.css.map */
