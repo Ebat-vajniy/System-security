@@ -111,12 +111,3 @@ p {
     margin-bottom: 18px;
   }
 
-  /* touch targets and spacing for interactive elements if added */
-  button, a.button {
-    min-height: 44px;
-    padding: 10px 16px;
-    font-size: 1rem;
-    border-radius: 8px;
-  }
-}
-/*# sourceMappingURL=style.css.map */
