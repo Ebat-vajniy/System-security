@@ -13,9 +13,9 @@
 }
 
 .min-con-box {
-  width: 720px;
+  width: 600px;
   height: 400px;
-  margin-top: 100px;
+  margin-top: 30px;
 }
 
 h1 {
@@ -32,7 +32,7 @@ p {
 .div-pic {
   width: 300px;
   height: 300px;
-  margin: 20px 170px;
+  margin: 30px 140px;
 }
 
 .txt1 {
@@ -64,7 +64,7 @@ p {
   .min-con-box {
     width: 60%;
     height: auto;
-    margin-top: 100px;
+    margin-top: 30px;
   }
 
   h1 {
@@ -86,9 +86,7 @@ p {
   .div-pic img {
     width: 100%;
     height: 100%;
-    object-fit: cover;
     border-radius: 8px;
-    display: block;
   }
 
   .txt1 {
